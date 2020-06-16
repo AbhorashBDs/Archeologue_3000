@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28607a05284336b4bb296e462721ac0e, type: 3}
+  m_Name: 1_Journalist
+  m_EditorClassIdentifier: 
+  name: Ana Praichere
+  face: {fileID: 21300000, guid: 8a5f6b170ee0e074e949108f258b6ccd, type: 3}
+  rewardId: 1
+  questionToTransfer:
+  - {fileID: 11400000, guid: a2242c2e16bdc9448a5ee93e4b7086e5, type: 2}
