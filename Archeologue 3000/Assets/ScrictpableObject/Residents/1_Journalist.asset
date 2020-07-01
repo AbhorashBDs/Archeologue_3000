@@ -12,8 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 28607a05284336b4bb296e462721ac0e, type: 3}
   m_Name: 1_Journalist
   m_EditorClassIdentifier: 
-  name: Ana Praichere
-  face: {fileID: 21300000, guid: 8a5f6b170ee0e074e949108f258b6ccd, type: 3}
+  name: Tana Komya
+  face: {fileID: 21300000, guid: 94192bdc57bbf084aa9c09b77638ff2b, type: 3}
   rewardId: 1
   questionToTransfer:
+  - {fileID: 11400000, guid: a2242c2e16bdc9448a5ee93e4b7086e5, type: 2}
   - {fileID: 11400000, guid: a2242c2e16bdc9448a5ee93e4b7086e5, type: 2}

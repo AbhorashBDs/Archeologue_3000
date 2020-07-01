@@ -17,8 +17,7 @@ MonoBehaviour:
   name: Placeholder
   description: "Quels \xE9taient les moyens de communication de l'\xE9poque ?"
   items:
-  - {fileID: 11400000, guid: 7a4cab3cdb93e434c9c57e9634c74f63, type: 2}
-  - {fileID: 11400000, guid: 7a4cab3cdb93e434c9c57e9634c74f63, type: 2}
+  - {fileID: 11400000, guid: e8037c848ba57a34b93bd14766a12b45, type: 2}
   - {fileID: 11400000, guid: 7a4cab3cdb93e434c9c57e9634c74f63, type: 2}
   dialoguesList:
   - NPCResident: {fileID: 11400000, guid: de3b80773055f3d4290f2abce0766c47, type: 2}

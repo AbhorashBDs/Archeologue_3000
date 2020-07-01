@@ -10,5 +10,5 @@ public class Item : ScriptableObject
     public string description;
     public Sprite aspect;
     public List<Archeologist> archeologistList;
-
+    public int affinityValue;
 }

@@ -4,20 +4,20 @@ using UnityEngine;
 
 public class OpenCloseObject : MonoBehaviour
 {
-    public GameObject goOpened;
+    public GameObject GO;
     // Start is called before the first frame update
     void Start()
     {
-        goOpened.SetActive(false);
+        
     }
 
     public void CloseIt()
     {
-        goOpened.SetActive(false);
+        GO.SetActive(false);
     }
 
     public void OpenIt()
     {
-        goOpened.SetActive(true);
+        GO.SetActive(true);
     }
 }

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   residentAskingQuestion: {fileID: 11400000, guid: 61024fccc25852e459eab4e229ee59a9,
     type: 2}
-  name: QuestionNull
+  name: ' '
   description: ' '
   items: []
   dialoguesList: []

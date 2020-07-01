@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 28607a05284336b4bb296e462721ac0e, type: 3}
   m_Name: 0_GuildChief
   m_EditorClassIdentifier: 
-  name: Jeff Neuwman
-  face: {fileID: 21300000, guid: c1b29c2c71587c34aab58bd13ef51ffb, type: 3}
+  name: Aaron Palestrie
+  face: {fileID: 21300000, guid: 02d12d2f28bac5e46b3a4a3c3caab2c5, type: 3}
   rewardId: 0
   questionToTransfer: []

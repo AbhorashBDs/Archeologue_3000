@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53ad4fe1b5d0c8e4e9fa78c777cab341, type: 3}
+  m_Name: Biologist
+  m_EditorClassIdentifier: 
+  name: Jasper Fytomium
+  role: Biologiste
+  description: C'est
+  sex: Masculin
+  id: 0
+  archeologistAffinity: 0100000001000000020000000000000002000000
+  locationAffinity: 0200000001000000
+  sheetAspect: {fileID: 21300000, guid: 02d12d2f28bac5e46b3a4a3c3caab2c5, type: 3}
+  face: {fileID: 21300000, guid: 02d12d2f28bac5e46b3a4a3c3caab2c5, type: 3}
+  listReportLines:
+  - relativeName: "Quartier Desaffect\xE9"
+    reportSentence: Le quartier c'est sympa, mais j'y passerai pas ma vie.
+  - relativeName: Jane
+    reportSentence: "Jane travail bien, on voit qu'elle connait bien son m\xE9tier
+      et qu'elle aime \xE7a."
+  - relativeName: Tiffany
+    reportSentence: "Tiffany est vraiment sympa, \xE7a fait plaisir de pouvoir parler
+      de chose plus technique sur la nature avec quelqu'un."
+  - relativeName: Pauline
+    reportSentence: "Pauline est vraiment motiv\xE9, \xE7a fait plaisir de voir quelqu'un
+      d'aussi dynamique et positif par les temps qui court."
+  - relativeName: "J\xE9rome"
+    reportSentence: "J\xE9rome est vraiment trop expansif, c'est dur de s'exprimer
+      quand il est dans les parages, et puis je trouve que sa vision de l'homme par
+      rapport \xE0 la nature n'est pas la bonne."
+  - relativeName: ItemAvailable
+    reportSentence: "Cet endroit est vraiment int\xE9ressant, je suis s\xFBr qu'il
+      me reste encore des choses \xE0 d\xE9couvrir."
+  - relativeName: ItemNotAvailable
+    reportSentence: "Je pense que cette fois, j'ai vraiment fait le tour, je pourrais
+      toujour revenir pour voir le lieu, mais jje pense pas qu'il me reste encore
+      beaucoup \xE0 apprendre."
+  - relativeName: 
+    reportSentence: 

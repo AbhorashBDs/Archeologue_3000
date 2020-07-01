@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22740e3cd2bcf6b4f9ecebdcfd1b626c, type: 3}
+  m_Name: OldFarm
+  m_EditorClassIdentifier: 
+  name: "Ferme D\xE9serte"
+  id: 0
+  aspect: {fileID: 21300000, guid: c260d34ffab8ba54ca45669a7479a0db, type: 3}
+  items:
+  - {fileID: 11400000, guid: 0e726aa2dfbeb814ba555919d4764b8e, type: 2}
+  - {fileID: 11400000, guid: 4b2b4b818add9ca42be82604a3cbec86, type: 2}
+  - {fileID: 11400000, guid: fcf219b1b45feb94789120adf03c4c56, type: 2}
+  - {fileID: 11400000, guid: 89d8bf73c5a739d4e9003c4f8e006bf5, type: 2}
+  - {fileID: 11400000, guid: 36605302a626468469fec37b06024c5b, type: 2}
+  - {fileID: 11400000, guid: 65ef30c8070a77c4a92cb52e4f0ed6ad, type: 2}
+  - {fileID: 11400000, guid: fcc40ae5ae4a16049961ddb9d5a95334, type: 2}
+  underLocation: []
+  description: "La Ferme est un lieu o\xF9 nos anc\xEAtres \xE9levaient leurs animaux
+    et cultivaient champs et vergers. Contrairement \xE0 nous, leur exploitation
+    \xE9tait tr\xE8s vaste, et tr\xE8s m\xE9canis\xE9e. Il ya \xE9galement plusieurs
+    habitations et un garage. \r\n\r\nNous devrions probablement y trouver des objets
+    relatifs \xE0 l'agriculture, l'\xE9levage, la vie quotidienne ainsi que des v\xE9hicules.\r\n"

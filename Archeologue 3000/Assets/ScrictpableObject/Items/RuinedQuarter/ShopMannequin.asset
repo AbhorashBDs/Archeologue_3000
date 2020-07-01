@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b521b97e27cb4194db39f8c44a8ff1a2, type: 3}
+  m_Name: ShopMannequin
+  m_EditorClassIdentifier: 
+  id: 6
+  name: "Objet \xE0 forme humano\xEFde, tr\xE8s bien conserv\xE9"
+  description: 
+  aspect: {fileID: 21300000, guid: cf7c5a4c1267cd345a76eca3c03452ae, type: 3}
+  archeologistList:
+  - {fileID: 11400000, guid: 8326c3a61fcf7254cb522d1893a81cba, type: 2}
+  - {fileID: 11400000, guid: 27838103df7357d46b5b8231a8ba426a, type: 2}
+  affinityValue: 70

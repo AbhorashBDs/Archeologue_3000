@@ -9,4 +9,8 @@ public class Location : ScriptableObject
     public int id;
     public Sprite aspect;
     public List<Item> items;
+    public List<string> underLocation;
+
+    [TextArea(3, 20)]
+    public string description;
 }
